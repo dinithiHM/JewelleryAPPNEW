@@ -1,0 +1,86 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="s-j-Bo8IbQ0WcYkaYd0i">
+    <mxGraphModel dx="648" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-1" value="Sales and Financial Logging Process (Manual)" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160.00000000000045" y="40" width="410" height="960" as="geometry" />
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-2" value="cashier" style="swimlane;startSize=20;html=1;" parent="cCDtkjYFeMpCMy0IGAWP-1" vertex="1">
+          <mxGeometry y="20" width="410" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" parent="cCDtkjYFeMpCMy0IGAWP-2" vertex="1">
+          <mxGeometry x="209.99999999999955" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-4" value="Prepare Logbook for the Day" style="rounded=1;whiteSpace=wrap;html=1;" parent="cCDtkjYFeMpCMy0IGAWP-2" vertex="1">
+          <mxGeometry x="165" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-5" value="Record Each Sale" style="rounded=1;whiteSpace=wrap;html=1;" parent="cCDtkjYFeMpCMy0IGAWP-2" vertex="1">
+          <mxGeometry x="165" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="cCDtkjYFeMpCMy0IGAWP-2" source="cCDtkjYFeMpCMy0IGAWP-3" target="cCDtkjYFeMpCMy0IGAWP-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189.99999999999955" y="360" as="sourcePoint" />
+            <mxPoint x="239.99999999999955" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="cCDtkjYFeMpCMy0IGAWP-2" source="cCDtkjYFeMpCMy0IGAWP-4" target="cCDtkjYFeMpCMy0IGAWP-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179.99999999999955" y="330" as="sourcePoint" />
+            <mxPoint x="229.99999999999955" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="cCDtkjYFeMpCMy0IGAWP-2" vertex="1">
+          <mxGeometry x="210" y="860" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-11" value="Tally Daily Sales" style="rounded=1;whiteSpace=wrap;html=1;" parent="cCDtkjYFeMpCMy0IGAWP-2" vertex="1">
+          <mxGeometry x="164.99999999999955" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-12" value="Review for Accuracy" style="rounded=1;whiteSpace=wrap;html=1;" parent="cCDtkjYFeMpCMy0IGAWP-2" vertex="1">
+          <mxGeometry x="164.99999999999955" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-13" value="Close the Day" style="rounded=1;whiteSpace=wrap;html=1;" parent="cCDtkjYFeMpCMy0IGAWP-2" vertex="1">
+          <mxGeometry x="164.99999999999955" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-14" value="Update Inventory Log" style="rounded=1;whiteSpace=wrap;html=1;" parent="cCDtkjYFeMpCMy0IGAWP-2" vertex="1">
+          <mxGeometry x="164.99999999999955" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="cCDtkjYFeMpCMy0IGAWP-2" source="cCDtkjYFeMpCMy0IGAWP-5" target="cCDtkjYFeMpCMy0IGAWP-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219.92000000000007" y="479.0999999999999" as="sourcePoint" />
+            <mxPoint x="299.99999999999955" y="620" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="cCDtkjYFeMpCMy0IGAWP-2" source="cCDtkjYFeMpCMy0IGAWP-11" target="cCDtkjYFeMpCMy0IGAWP-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249.99999999999955" y="670" as="sourcePoint" />
+            <mxPoint x="299.99999999999955" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="cCDtkjYFeMpCMy0IGAWP-2" source="cCDtkjYFeMpCMy0IGAWP-12" target="cCDtkjYFeMpCMy0IGAWP-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.99999999999955" y="760" as="sourcePoint" />
+            <mxPoint x="219.99999999999955" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="cCDtkjYFeMpCMy0IGAWP-2" source="cCDtkjYFeMpCMy0IGAWP-13" target="cCDtkjYFeMpCMy0IGAWP-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.99999999999955" y="830" as="sourcePoint" />
+            <mxPoint x="229.99999999999955" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="cCDtkjYFeMpCMy0IGAWP-2" source="cCDtkjYFeMpCMy0IGAWP-14" target="cCDtkjYFeMpCMy0IGAWP-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.99999999999955" y="900" as="sourcePoint" />
+            <mxPoint x="219.99999999999955" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cCDtkjYFeMpCMy0IGAWP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="cCDtkjYFeMpCMy0IGAWP-2" source="cCDtkjYFeMpCMy0IGAWP-5" target="cCDtkjYFeMpCMy0IGAWP-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

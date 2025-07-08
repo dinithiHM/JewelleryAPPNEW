@@ -1,0 +1,610 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="4lmKtqXv3CfPzeGzQBHD">
+    <mxGraphModel dx="1358" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-1" value="Admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="150" height="5155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-2" value="Report Interface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="292" y="20" width="150" height="5155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-3" value="Report Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="574" y="20" width="150" height="5155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-4" value="Sales Table" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="878" y="20" width="150" height="5155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-5" value="Jewellery Stock Table" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1078" y="20" width="168" height="5155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-6" value="Gold Stock Table" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1296" y="20" width="150" height="5155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-7" value="Orders Table" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1496" y="20" width="150" height="5155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-8" value="Advance Payments Table" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1696" y="20" width="194" height="5155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-9" value="Assay Reports Table" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="20" width="160" height="5155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-10" value="Branches Table" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="20" width="150" height="5155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-11" value="Categories Table" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="20" width="150" height="5155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-12" value="Report Generator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2615" y="20" width="150" height="5155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-13" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="356" y="412" width="2080" height="944" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-14" value="[Daily Sales]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-13">
+          <mxGeometry x="30" width="2050" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-15" value="[Monthly Sales]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-13">
+          <mxGeometry y="214" width="2080" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-16" value="[Sales by Category]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-13">
+          <mxGeometry y="423" width="2080" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-17" value="[Sales by Branch]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-13">
+          <mxGeometry y="686" width="2080" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-18" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="356" y="1467" width="1026" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-19" value="[Current Stock]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-18">
+          <mxGeometry x="30" width="996" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-20" value="[Gold Inventory]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-18">
+          <mxGeometry y="214" width="1026" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-21" value="[Low Stock Items]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-18">
+          <mxGeometry y="423" width="1026" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-22" value="[Inventory Valuation]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-18">
+          <mxGeometry y="632" width="1026" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-23" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="356" y="2468" width="1448" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-24" value="[Revenue Analysis]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-23">
+          <mxGeometry x="30" width="1418" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-25" value="[Profit Margins]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-23">
+          <mxGeometry y="322" width="1448" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-26" value="[Payment Methods]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-23">
+          <mxGeometry y="477" width="1448" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-27" value="[Discount Analysis]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-23">
+          <mxGeometry y="740" width="1448" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-28" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="84" y="311" width="2362" height="3387" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-29" value="[Sales Reports]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-28">
+          <mxGeometry x="30" width="2332" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-30" value="[Inventory Reports]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-28">
+          <mxGeometry y="1060" width="2362" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-31" value="[Financial Reports]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-28">
+          <mxGeometry y="2061" width="2362" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-32" value="[Assay Reports]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-28">
+          <mxGeometry y="3062" width="2362" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-33" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="84" y="4062" width="2617" height="627" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-34" value="[Export Report]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-33">
+          <mxGeometry x="30" width="2587" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-35" value="[Print Report]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-33">
+          <mxGeometry y="214" width="2617" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-36" value="[Save Report]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-33">
+          <mxGeometry y="423" width="2617" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-37" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="84" y="4699" width="576" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-38" value="[Report Generation Error]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="MTXQhX65QZ1JSkWOyokf-37">
+          <mxGeometry x="30" width="546" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-39" value="Access Reports Menu" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-1" target="MTXQhX65QZ1JSkWOyokf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-40" value="Load available reports" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-41" value="Return report categories" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-42" value="Display report options" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="243" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-43" value="Select Sales Report Type" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-1" target="MTXQhX65QZ1JSkWOyokf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-44" value="Request daily sales report" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="493" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-45" value="Query sales by date" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="547" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-46" value="Return daily sales data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-4" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="813" y="601" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-47" value="Request monthly sales report" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="702" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-48" value="Query sales by month" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="756" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-49" value="Return monthly sales data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-4" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="813" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-50" value="Get all categories" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1546" y="911" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-51" value="Return categories" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-11" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1549" y="965" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-52" value="Query sales grouped by category" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="1019" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-53" value="Return category sales data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-4" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="813" y="1073" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-54" value="Get all branches" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1446" y="1174" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-55" value="Return branches" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-10" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1449" y="1228" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-56" value="Query sales grouped by branch" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="1282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-57" value="Return branch sales data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-4" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="813" y="1336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-58" value="Select Inventory Report Type" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-1" target="MTXQhX65QZ1JSkWOyokf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="1447" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-59" value="Request current stock report" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="1548" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-60" value="Query current stock levels" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="914" y="1602" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-61" value="Return stock data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-5" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="917" y="1656" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-62" value="Request gold inventory report" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="1757" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-63" value="Query gold stock levels" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1019" y="1811" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-64" value="Return gold inventory data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-6" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1022" y="1865" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-65" value="Request low stock report" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="1966" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-66" value="Query items below minimum threshold" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="914" y="2020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-67" value="Return low stock items" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-5" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="917" y="2074" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-68" value="Query all stock with prices" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="914" y="2175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-69" value="Return stock valuation data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-5" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="917" y="2229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-70" value="Query gold stock with current rates" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1019" y="2283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-71" value="Return gold valuation data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-6" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1022" y="2337" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-72" value="Select Financial Report Type" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-1" target="MTXQhX65QZ1JSkWOyokf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="2448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-73" value="Request revenue analysis" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="2549" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-74" value="Query revenue by period" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="2603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-75" value="Return revenue data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-4" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="813" y="2657" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-76" value="Query advance payments" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1230" y="2711" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-77" value="Return payment data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-8" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1233" y="2765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-78" value="Query sales with cost data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="2866" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-79" value="Return profit margin data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-4" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="813" y="2920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-80" value="Query payments by method" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1230" y="3021" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-81" value="Return payment method data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-8" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1233" y="3075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-82" value="Query sales payment methods" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="3129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-83" value="Return sales payment data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-4" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="813" y="3183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-84" value="Query sales with discount data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="3284" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-85" value="Return discount analysis data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-4" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="813" y="3338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-86" value="Access Assay Reports" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-1" target="MTXQhX65QZ1JSkWOyokf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="3449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-87" value="Request assay reports" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="3503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-88" value="Query assay reports" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1343" y="3557" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-89" value="Return assay data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-9" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1346" y="3611" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-90" value="Generate report with data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1678" y="3742" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-91" value="Format report (PDF/Excel/Print)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-12" target="MTXQhX65QZ1JSkWOyokf-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2741" y="3796" />
+              <mxPoint x="2741" y="3826" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-92" value="Return formatted report" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-12" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1681" y="3880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-93" value="Return report data" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="3934" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-94" value="Display generated report" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="243" y="3988" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-95" value="Choose report action" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-1" target="MTXQhX65QZ1JSkWOyokf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="4042" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-96" value="Export to PDF/Excel" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1537" y="4143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-97" value="Return export file" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-12" target="MTXQhX65QZ1JSkWOyokf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="4197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-98" value="Download report file" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="243" y="4251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-99" value="Print report" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1537" y="4352" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-100" value="Send to printer" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-12" target="MTXQhX65QZ1JSkWOyokf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="4406" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-101" value="Report printed" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="243" y="4460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-102" value="Save report configuration" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="4561" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-103" value="Report saved" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="4615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-104" value="Report saved for future use" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="243" y="4669" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-105" value="Return error message" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-3" target="MTXQhX65QZ1JSkWOyokf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="4780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-106" value="Display error notification" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="MTXQhX65QZ1JSkWOyokf-2" target="MTXQhX65QZ1JSkWOyokf-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="243" y="4834" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-107" value="Assay reports contain jewellery&#xa;composition and certification data" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="3631" width="261" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-108" value="Admin Only Access:&#xa;Only Admin role can access&#xa;all reporting features&#xa;across all branches" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="543" y="4864" width="213" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="MTXQhX65QZ1JSkWOyokf-109" value="Report Types:&#xa;1. Sales Reports (Daily, Monthly, Category, Branch)&#xa;2. Inventory Reports (Stock, Gold, Low Stock, Valuation)&#xa;3. Financial Reports (Revenue, Profit, Payments, Discounts)&#xa;4. Assay Reports (Composition, Certification)" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="2475" y="4968" width="429" height="122" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

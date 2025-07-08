@@ -1,0 +1,209 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="Fk8q_-Hfn8eoCxwxR9sb">
+    <mxGraphModel dx="1727" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-1" value="Order Activity&amp;nbsp;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360.00000000000045" y="300" width="630" height="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-1" source="xmTbpWbjIltDPIKT_NZu-6" target="xmTbpWbjIltDPIKT_NZu-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.99999999999955" y="230" as="sourcePoint" />
+            <mxPoint x="209.99999999999955" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-1" source="xmTbpWbjIltDPIKT_NZu-13" target="xmTbpWbjIltDPIKT_NZu-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="194.99999999999955" y="520" as="sourcePoint" />
+            <mxPoint x="304.99999999999955" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="494.99999999999955" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-17" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xmTbpWbjIltDPIKT_NZu-16">
+          <mxGeometry x="-0.5133" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-3" value="Store Manager" style="swimlane;startSize=20;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-1">
+          <mxGeometry y="20" width="360" height="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-3">
+          <mxGeometry x="89.99999999999955" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-6" value="View Jewellery Stock Level" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-3">
+          <mxGeometry x="45" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-3" source="xmTbpWbjIltDPIKT_NZu-5" target="xmTbpWbjIltDPIKT_NZu-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.99999999999955" y="170" as="sourcePoint" />
+            <mxPoint x="209.99999999999955" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-11" value="Select order item category" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-3">
+          <mxGeometry x="45" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-18" value="Proceed with order&lt;div&gt;without gold materials&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-3">
+          <mxGeometry x="9.999999999999545" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-20" value="Select Supplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-3">
+          <mxGeometry x="129.99999999999955" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-13" value="is gold supply?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-3">
+          <mxGeometry x="150" y="460" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-21" value="Proceed with order&lt;div&gt;with gold materials&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-3">
+          <mxGeometry x="189.99999999999955" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-3" source="xmTbpWbjIltDPIKT_NZu-20" target="xmTbpWbjIltDPIKT_NZu-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.99999999999955" y="170" as="sourcePoint" />
+            <mxPoint x="249.99999999999955" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-33" value="" style="line;strokeWidth=6;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-3">
+          <mxGeometry x="20" y="650" width="140" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.294;entryY=0.432;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-3" source="xmTbpWbjIltDPIKT_NZu-13" target="xmTbpWbjIltDPIKT_NZu-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119.99999999999955" y="460" as="sourcePoint" />
+            <mxPoint x="169.99999999999955" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="61.999999999999545" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-34" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xmTbpWbjIltDPIKT_NZu-31">
+          <mxGeometry x="-0.4982" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.454;exitY=0.624;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.608;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-3" source="xmTbpWbjIltDPIKT_NZu-33" target="xmTbpWbjIltDPIKT_NZu-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.99999999999955" y="750" as="sourcePoint" />
+            <mxPoint x="219.99999999999955" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-41" value="" style="line;strokeWidth=6;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-3">
+          <mxGeometry x="50" y="1000" width="210" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.093;entryY=0.248;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-3" source="xmTbpWbjIltDPIKT_NZu-18" target="xmTbpWbjIltDPIKT_NZu-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.99999999999955" y="820" as="sourcePoint" />
+            <mxPoint x="289.99999999999955" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.81;entryY=0.248;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-3" source="xmTbpWbjIltDPIKT_NZu-21" target="xmTbpWbjIltDPIKT_NZu-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.99999999999955" y="820" as="sourcePoint" />
+            <mxPoint x="289.99999999999955" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-4" value="System" style="swimlane;startSize=20;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-1">
+          <mxGeometry x="360" y="20" width="270" height="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-8" value="Display Stock Level&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-4">
+          <mxGeometry x="55" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-10" value="Notify low jewellery items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-4">
+          <mxGeometry x="55" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-15" value="Check if raw materials (gold) are available" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-4">
+          <mxGeometry x="79.99999999999955" y="520" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-19" value="Suggests Supplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-4">
+          <mxGeometry x="50" y="270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-22" value="Order sent to Supplier&lt;div&gt;via whatsapp message&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-4">
+          <mxGeometry x="79.99999999999955" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-24" value="Deduct raw materials from the stock&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-4">
+          <mxGeometry x="64.99999999999955" y="720" width="145" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-25" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="xmTbpWbjIltDPIKT_NZu-4">
+          <mxGeometry x="124.99999999999955" y="1170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-4" source="xmTbpWbjIltDPIKT_NZu-8" target="xmTbpWbjIltDPIKT_NZu-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160.00000000000045" y="170" as="sourcePoint" />
+            <mxPoint x="-110.00000000000045" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-4" source="xmTbpWbjIltDPIKT_NZu-15" target="xmTbpWbjIltDPIKT_NZu-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-190.00000000000045" y="750" as="sourcePoint" />
+            <mxPoint x="-140.00000000000045" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-4" source="xmTbpWbjIltDPIKT_NZu-22" target="xmTbpWbjIltDPIKT_NZu-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100.00000000000045" y="920" as="sourcePoint" />
+            <mxPoint x="-50.000000000000455" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.541;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-1" source="xmTbpWbjIltDPIKT_NZu-10" target="xmTbpWbjIltDPIKT_NZu-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.99999999999955" y="190" as="sourcePoint" />
+            <mxPoint x="249.99999999999955" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="109.99999999999955" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.382;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-1" source="xmTbpWbjIltDPIKT_NZu-11" target="xmTbpWbjIltDPIKT_NZu-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.99999999999955" y="190" as="sourcePoint" />
+            <mxPoint x="249.99999999999955" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="469.99999999999955" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.581;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.548;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-1" source="xmTbpWbjIltDPIKT_NZu-19" target="xmTbpWbjIltDPIKT_NZu-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.99999999999955" y="190" as="sourcePoint" />
+            <mxPoint x="249.99999999999955" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="479.99999999999955" y="360" />
+              <mxPoint x="195.99999999999955" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.756;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-1" source="xmTbpWbjIltDPIKT_NZu-15" target="xmTbpWbjIltDPIKT_NZu-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.99999999999955" y="690" as="sourcePoint" />
+            <mxPoint x="219.99999999999955" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="124.99999999999955" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-37" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xmTbpWbjIltDPIKT_NZu-35">
+          <mxGeometry x="-0.7947" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-1" source="xmTbpWbjIltDPIKT_NZu-24" target="xmTbpWbjIltDPIKT_NZu-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229.99999999999955" y="810" as="sourcePoint" />
+            <mxPoint x="279.99999999999955" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="249.99999999999955" y="773" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmTbpWbjIltDPIKT_NZu-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.477;exitY=0.604;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xmTbpWbjIltDPIKT_NZu-1" source="xmTbpWbjIltDPIKT_NZu-41" target="xmTbpWbjIltDPIKT_NZu-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.99999999999955" y="840" as="sourcePoint" />
+            <mxPoint x="289.99999999999955" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="149.99999999999955" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

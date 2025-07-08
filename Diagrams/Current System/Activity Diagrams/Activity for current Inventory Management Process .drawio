@@ -1,0 +1,71 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="CjFUDqb5dU1VbWRJ2KB4">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-1" value="Inventory Management Process (Manual)" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160.00000000000045" y="40" width="550" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-2" value="store manager" style="swimlane;startSize=20;html=1;" parent="IEnjSjw9BNWPgdT4AiaC-1" vertex="1">
+          <mxGeometry y="20" width="280" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#000000;" parent="IEnjSjw9BNWPgdT4AiaC-2" vertex="1">
+          <mxGeometry x="119.99999999999955" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-4" value="Check Stock Levels" style="rounded=1;whiteSpace=wrap;html=1;" parent="IEnjSjw9BNWPgdT4AiaC-2" vertex="1">
+          <mxGeometry x="75" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-5" value="inform to owner" style="rounded=1;whiteSpace=wrap;html=1;" parent="IEnjSjw9BNWPgdT4AiaC-2" vertex="1">
+          <mxGeometry x="75" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-6" value="Update Inventory Log" style="rounded=1;whiteSpace=wrap;html=1;" parent="IEnjSjw9BNWPgdT4AiaC-2" vertex="1">
+          <mxGeometry x="75" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="IEnjSjw9BNWPgdT4AiaC-2" source="IEnjSjw9BNWPgdT4AiaC-3" target="IEnjSjw9BNWPgdT4AiaC-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189.99999999999955" y="360" as="sourcePoint" />
+            <mxPoint x="239.99999999999955" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="IEnjSjw9BNWPgdT4AiaC-2" source="IEnjSjw9BNWPgdT4AiaC-4" target="IEnjSjw9BNWPgdT4AiaC-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179.99999999999955" y="330" as="sourcePoint" />
+            <mxPoint x="229.99999999999955" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-15" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="IEnjSjw9BNWPgdT4AiaC-2" vertex="1">
+          <mxGeometry x="120" y="425" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="IEnjSjw9BNWPgdT4AiaC-2" source="IEnjSjw9BNWPgdT4AiaC-6" target="IEnjSjw9BNWPgdT4AiaC-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="530" as="sourcePoint" />
+            <mxPoint x="299.99999999999955" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-10" value="owner" style="swimlane;startSize=20;html=1;" parent="IEnjSjw9BNWPgdT4AiaC-1" vertex="1">
+          <mxGeometry x="280" y="20" width="270" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-11" value="Order Replenishment" style="rounded=1;whiteSpace=wrap;html=1;" parent="IEnjSjw9BNWPgdT4AiaC-10" vertex="1">
+          <mxGeometry x="75" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="IEnjSjw9BNWPgdT4AiaC-1" source="IEnjSjw9BNWPgdT4AiaC-5" target="IEnjSjw9BNWPgdT4AiaC-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179.99999999999955" y="350" as="sourcePoint" />
+            <mxPoint x="229.99999999999955" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEnjSjw9BNWPgdT4AiaC-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="IEnjSjw9BNWPgdT4AiaC-1" source="IEnjSjw9BNWPgdT4AiaC-11" target="IEnjSjw9BNWPgdT4AiaC-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179.99999999999955" y="350" as="sourcePoint" />
+            <mxPoint x="229.99999999999955" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414.99999999999955" y="280" />
+              <mxPoint x="134.99999999999955" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
